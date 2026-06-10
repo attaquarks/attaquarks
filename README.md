@@ -20,7 +20,7 @@
 
 ## About Me
 
-I am a Computer Science student and AI builder focused on **agentic systems, applied machine learning, RAG, NLP, and full-stack AI products**.
+I am a Computer Science graduate and AI builder focused on **agentic systems, applied machine learning, RAG, NLP, and full-stack AI products**.
 
 I like building systems where the model is only one part of the product: real tools, useful memory, clean interfaces, measurable behavior, and deployment paths that someone can actually run.
 
