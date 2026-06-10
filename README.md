@@ -69,14 +69,6 @@ Industrial agentic AI system built with LangGraph for inventory analysis, suppli
 
 ---
 
-### [AI Agent Web Search and Research Platform](https://github.com/attaquarks/Web-Search-Agent)
-
-Multi-agent research platform comparing One-Shot, Simple RAG, ReAct, Plan-Execute, and memory-enhanced agents with a web playground, reasoning traces, memory inspection, and benchmarking dashboard.
-
-`Python` `FastAPI` `LangChain` `Next.js` `Tailwind CSS` `Vector Search`
-
----
-
 ### [3AM Talks - AI Therapy System](https://github.com/attaquarks/3am-talks)
 
 AI-powered therapy and counseling system using personality-aware responses, RAG, user profiles, conversation memory, and evidence-based therapeutic technique retrieval.
@@ -98,20 +90,6 @@ Medical imaging VQA and report-generation pipeline for MRI scans using vision en
 TypeScript web application for AI-assisted symptom analysis with structured medical reasoning, React UI, Express backend, PostgreSQL, authentication, and real-time features.
 
 `TypeScript` `React` `Express` `PostgreSQL` `Tailwind CSS` `Medical AI`
-
----
-
-## More Work
-
-| Project | What it demonstrates |
-|---|---|
-| [Capstone-MCP](https://github.com/attaquarks/Capstone-MCP) | Model Context Protocol server exposing real DevOps monitoring tools with clean protocol/tool separation. |
-| [AutoML](https://github.com/attaquarks/AutoML) | Streamlit AutoML pipeline for EDA, preprocessing, model comparison, evaluation, and model export. |
-| [Email-Query-App](https://github.com/attaquarks/Email-Query-App) | Outlook email Q&A with Microsoft Graph, LangChain, OpenAI, ChromaDB, and Streamlit. |
-| [NMT-en-ur](https://github.com/attaquarks/NMT-en-ur) | English-to-Urdu neural machine translation using encoder-decoder LSTM and Bahdanau attention. |
-| [SubjectQA](https://github.com/attaquarks/SubjectQA) | Interactive context-based question answering with BERT and hybrid T5 options. |
-| [llm_chat_app](https://github.com/attaquarks/llm_chat_app) | Multi-provider chat app with OpenRouter and Hugging Face support across CLI and web interfaces. |
-| [Qubit-Visualization-Tool](https://github.com/attaquarks/Qubit-Visualization-Tool) | C++ and Python exploration of quantum state visualization. |
 
 ---
 
